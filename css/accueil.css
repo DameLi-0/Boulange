@@ -1,0 +1,22 @@
+
+.Tnew{
+    margin-left: 15rem;
+    margin-right: 15rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+h3{
+    text-align: center;
+}
+.Aerox5{
+    height: 619px;
+    width: 928px;
+    border-radius: 30px;
+}
+
+p>pac{
+    margin-top: 1rem !important;
+}

@@ -1,0 +1,56 @@
+body {
+   overflow-x: hidden; 
+}
+
+#formO, #comO, #modO{
+    margin-top: 7rem !important;
+}
+
+#cardO{
+    display: inline-flex !important;
+    margin-left: 45px;
+    margin-right: 0px;
+    margin-top: 55px;
+}
+
+#affO{
+    margin-top: 6rem;
+    margin-left: 6rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+html {
+    background-color: transparent;
+}
+/* NAVBAR */
+.navbar.navbar-expand-lg.navbar-light.bg-light{
+    background-color: #fff !important;
+}
+
+.nav-link{
+    color: #A8AAAD;
+}
+
+.cbt{
+    padding: -20px 25px;
+    border-radius: 75px;
+    width: 150px;
+    font-size: 15px;
+    border: none;
+    color: #fff;
+    background-color: #138cda;
+    outline: none;
+    cursor: pointer;
+    height: 40px;
+}
+
+.cbt>a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: black !important;
+}
